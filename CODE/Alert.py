@@ -4,7 +4,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
-
+#I want to test this project 
 class Email_Alert:
     def __init__(self,users_Email_list=["amitos684@gmail.com","barloupo@gmail.com","eyal@gat.org.il"]):
         self.user_email_address1 =users_Email_list[0]
