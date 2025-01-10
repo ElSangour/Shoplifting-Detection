@@ -1,8 +1,9 @@
 # Shoplifting-Detection
 ---
+
 #### Project creators
--  Amit Hayun [Amit@silentvision.org](Amit@silentvision.org)
--  Amit Hayun [Linkedin](https://www.linkedin.com/in/amithayun82797614a/)
+-  Amit Hayun  [Amit@silentvision.org](Amit@silentvision.org)
+-  Amit Hayun  [Linkedin](https://www.linkedin.com/in/amithayun82797614a/)
 -  [Silentvision](silentvision.org)
 
 
